@@ -15,4 +15,4 @@ CosmosEvents ofrece servicios de calidad y satisfaccion a los usuarios que reser
 ### Despedidas de Solteras
 
 ## Cotizaciones
-## Git pagina Web: https://jhonathansr.github.io/web/
+## Git pagina Web: [https://jhonathansr.github.io/web/](https://github.com/JhonathanSR/cosmos3events.git)
